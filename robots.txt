@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://angaramoksh-a11y.github.io/ballast-point-partners/sitemap.xml
