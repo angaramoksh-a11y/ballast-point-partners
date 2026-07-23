@@ -317,7 +317,7 @@ html.static .reveal{opacity:1!important;transform:none!important}
 /* Focus visibility */
 :focus-visible{outline:2px solid var(--gold);outline-offset:3px}
 
-/* ============ CONCEPT-DISCLAIMER STRIP (varv, Category A) ============ */
+/* ============ CONCEPT-DISCLAIMER STRIP (Keep Pivoting, Category A) ============ */
 body{padding-bottom:40px}
 #varv-disclaimer{
   position:fixed;left:0;right:0;bottom:0;z-index:2147482000;
@@ -330,7 +330,7 @@ body{padding-bottom:40px}
 #varv-disclaimer b{color:#fff;font-weight:600}
 @media (max-width:560px){#varv-disclaimer{font-size:10.5px;padding:7px 12px}body{padding-bottom:58px}}
 
-/* ============ VARV POPUP ============ */
+/* ============ KEEP PIVOTING POPUP ============ */
 #varv-popup{
   position:fixed;right:20px;bottom:52px;z-index:2147483000;
   width:340px;max-width:calc(100vw - 32px);box-sizing:border-box;

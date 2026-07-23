@@ -1,4 +1,4 @@
-/* varv popup — "ask your AI which site wins you business". Self-contained, zero deps.
+/* Keep Pivoting popup — "ask your AI which site wins you business". Self-contained, zero deps.
    Static-safe: under ?static=1 or reduced-motion it shows immediately, no timer, no rAF. */
 (function(){
   "use strict";
